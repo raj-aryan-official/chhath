@@ -1,0 +1,17 @@
+{
+  "name": "KHARNA — Chhath Puja Sarees",
+  "short_name": "KHARNA",
+  "description": "Handpicked sarees for every day of Chhath — Nahay Khay to Usha Arghya.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8EC",
+  "theme_color": "#FFF8EC",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

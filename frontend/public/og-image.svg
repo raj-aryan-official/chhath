@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="ogSun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBBF24" />
+      <stop offset="0.6" stop-color="#F97316" />
+      <stop offset="1" stop-color="#EA580C" />
+    </linearGradient>
+    <radialGradient id="ogGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FBBF24" stop-opacity="0.55" />
+      <stop offset="1" stop-color="#FBBF24" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#FFF8EC" />
+  <circle cx="600" cy="270" r="300" fill="url(#ogGlow)" />
+  <circle cx="600" cy="265" r="96" fill="url(#ogSun)" />
+  <g fill="#F97316">
+    <path transform="translate(600 265) rotate(0)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(22.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(45)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(67.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(90)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(112.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(135)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(157.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(180)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(202.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(225)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(247.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(270)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(292.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(315)" d="M-9 -122 L0 -170 L9 -122 Z" />
+    <path transform="translate(600 265) rotate(337.5)" d="M-9 -122 L0 -170 L9 -122 Z" />
+  </g>
+  <g fill="#9A3412">
+    <circle cx="586" cy="222" r="20" />
+    <path d="M577 239 h18 l4 19 h-26 z" />
+    <path d="M563 253 C556 270 551 285 549 302 C546 328 538 372 531 412 L629 412 C622 372 614 328 611 302 C609 285 604 270 597 253 C583 242 577 242 563 253 Z" />
+  </g>
+  <path d="M604 258 C622 261 637 270 649 280" fill="none" stroke="#9A3412" stroke-width="13" stroke-linecap="round" />
+  <path d="M635 283 C651 273 684 273 702 283" fill="none" stroke="#9A3412" stroke-width="9" stroke-linecap="round" />
+  <path d="M639 286 C651 307 686 307 698 286" fill="none" stroke="#9A3412" stroke-width="7" stroke-linecap="round" />
+  <path d="M667 243 C674 253 674 261 667 264 C660 261 661 253 667 243 Z" fill="#F97316" />
+  <g fill="none" stroke="#F97316" stroke-linecap="round">
+    <path d="M400 424 q 28 -18 56 0 t 56 0 t 56 0 t 56 0 t 56 0 t 56 0 t 56 0 t 56 0" stroke-width="9" />
+    <path d="M424 452 q 28 -16 56 0 t 56 0 t 56 0 t 56 0 t 56 0 t 56 0 t 56 0" stroke-width="8" opacity="0.75" />
+    <path d="M456 478 q 24 -14 48 0 t 48 0 t 48 0 t 48 0 t 48 0 t 48 0" stroke-width="7" opacity="0.5" />
+  </g>
+  <text x="600" y="549" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="66" letter-spacing="16" fill="#2B1A0E">KHARNA</text>
+  <text x="600" y="588" text-anchor="middle" font-family="Poppins, Helvetica, sans-serif" font-size="17" letter-spacing="8" fill="#9A3412">PURE FABRIC FOR YOUR PUREST PRAYER</text>
+</svg>
